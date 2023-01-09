@@ -193,7 +193,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       >
                         {hasVariant(globalVariants, "screen", "mobileOnly")
                           ? "Analytics for developers can be better"
-                          : "TESTING Analytics for \ndevelopers can\nbe better"}
+                          : "TESTING0 Analytics for \ndevelopers can\nbe better"}
                       </h1>
 
                       <div
