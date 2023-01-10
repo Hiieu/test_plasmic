@@ -1,6 +1,6 @@
 # Plasmic workflow v4
 name: Sync, build and deploy Plasmic app
-# TESTIIING!!
+
 permissions:
   contents: write
   pages: write
